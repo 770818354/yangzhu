@@ -7,7 +7,7 @@ tag: 总结
 ---   
 
 <h6><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/icon/copyright.png" alt="copyright" style="display:inline;margin-bottom: -5px;" width="20" height="20"> 版权声明：本文为博主原创文章，未经博主允许不得转载。
-<a target="_blank" href="https://robotkang.cc/22131.html">原文地址：https://robotkang.cc/22131.html </a>
+<a target="_blank" href="https://yangzhu.fun/22131.html">原文地址：https://yangzhu.fun/22131.html </a>
 </h6>                           
 
 用文字记录过往，复盘、归档，我用一篇篇文章记录了过去的 2021 ，现在也迎来了 2022 ，希望 2022 ，一切都好，万事顺遂。🧡          
