@@ -79,7 +79,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 <p>邮箱：wohenhuiyangzhu@gmail.com
 	<!--a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：蒙古海军船长</a><img id="img2" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/kanggzh.png" style="display:none;" width="128" height="128" -->
 <div class="divcss5-right">
-	<a href="https://robotkang.cc" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/章若楠5.3h9go711drk.webp" width="270" height="71" alt="kang"/></a>
+	<a href="https://robotkang.cc" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/章若楠5.3h9go711drk.webp" width="1500" height="600" alt="kang"/></a>
 </div>                      
        
 <!--a href="/Mr.Kang_Developer/" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/章若楠5.3h9go711drk.webp" width="100%" height="auto" alt="photos" display="block"/></a--> 
