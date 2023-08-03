@@ -64,8 +64,8 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 <p>
 ♻模板代码可任意使用，但请保留本站友情链接。👣   
 &emsp;      
-本站名称：Robotkang &emsp;        
-本站网址：https://www.robotkang.cc &emsp;         
+本站名称：我很会养猪 &emsp;        
+本站网址：https://www.yangzhu.fun &emsp;         
 </p>
 </div-->
 
@@ -79,8 +79,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 <p>邮箱：wohenhuiyangzhu@gmail.com
 	<!--a href="#" onmouseover="mousemethod('block','img2')" onmouseout="mousemethod('none','img2')" style="color:#008B00;text-decoration:none">公众号：蒙古海军船长</a><img id="img2" src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/kanggzh.png" style="display:none;" width="128" height="128" -->
 <div class="divcss5-right">
-	<a href="https://robotkang.cc" target="_blank"><img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/logo/robotkang.png
-" width="270" height="71" alt="kang"/></a>
+	<a href="https://robotkang.cc" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/章若楠5.3h9go711drk.webp" width="270" height="71" alt="kang"/></a>
 </div>                      
        
 <!--a href="/Mr.Kang_Developer/" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/章若楠5.3h9go711drk.webp" width="100%" height="auto" alt="photos" display="block"/></a--> 
