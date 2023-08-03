@@ -3,7 +3,7 @@ layout: page
 title: 关于我「ABOUT ME」 
 date: 2021-05-04
 ---
-<a href="/photos/" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/download.7e7pqs2die40.webp" width="150" height="150" alt="photos"/></a>
+<a href="/photos/" target="_blank"><img src="https://raw.githubusercontent.com/770818354/-/master/image/download.7e7pqs2die40.webp" width="1500" height="150" alt="photos"/></a>
 
 
 一个<span style="text-decoration: line-through">刚刚走出</span>已出走四年多象牙塔的 Maker。<a href="/Mr.Kang_Developer/" target="_blank" style="text-decoration:none">「我的简历」</a>
