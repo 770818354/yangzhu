@@ -1,4 +1,4 @@
-<script>
+<!-- <script>
     new Valine({
         av: AV,
         el: '#comments',
@@ -11,8 +11,22 @@
         pageSize:10,
         serverURLs: 'https://api.robotkang.cc', 
     });
+</script> -->
+<!-- my -->
+<script>
+    new Valine({
+        av: AV,
+        el: '#comments',
+        app_id: 'yukBIwNt2MtAq9NHXagpfMOX-gzGzoHsz',
+        app_key: 'MNdZfu6nIohskofglycTeI0z',
+        placeholder:'{{ site.data.social.valine_comment.placeholder }}',
+        avatar:'robohash',
+        path:window.location.pathname,
+        guest_info:['nick','mail','link'] ,
+        pageSize:10,
+        serverURLs: 'yukbiwnt.lc-cn-n1-ayaqc.com', 
+    });
 </script>
-
 
 <!--script>
     new Valine({
