@@ -11,7 +11,7 @@ comments: true
 > 可以咨询，可以交流，可以感叹，可以发飙，但不可以订外卖 、、、
 
 <div class="text-center" style="margin-top: 15px;">
-    <img src="." width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
+    <img src="https://cdn.jsdelivr.net/gh/770818354/-@master/image/IMG_2521.20do3suod0f4.webp" width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
 </div>
 
 <p>
