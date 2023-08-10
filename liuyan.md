@@ -115,7 +115,7 @@ function setHalfVolume()
 
 <!-- my -->
 
-    <script>
+   <script>
       new Valine({
           // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
           av: AV,
@@ -131,7 +131,7 @@ function setHalfVolume()
       });
 
   </script>
-  
+
 <!--
 <a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>
 -->
