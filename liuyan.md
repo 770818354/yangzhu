@@ -1,15 +1,14 @@
 ---
 layout: page
 title: 留言板「MESSAGE」
-comments: true 
+comments: true
 ---
 
-<img src="https://cdn.jsdelivr.net/gh/770818354/-@master/image/prevsaaiew.4g0jyy9pg2k0.webp" wwidth="100%" height="auto" alt="photos"/>
+<img src="https://cdn.jsdelivr.net/gh/770818354/-@master/image/章若楠6.4hnxfekh1cm0.webp" width="788px" height="300px" alt="photos"/>
 
-
-> 有什么话要对我说吗？             
-> 这里是你畅所欲言的地方，            
-> 可以咨询，可以交流，可以感叹，可以发飙，但不可以订外卖 、、、                
+> 有什么话要对我说吗？  
+> 这里是你畅所欲言的地方，  
+> 可以咨询，可以交流，可以感叹，可以发飙，但不可以订外卖 、、、
 
 <div class="text-center" style="margin-top: 15px;">
     <img src="." width="128" height="128" title="支付宝、微信、手机QQ扫码打赏">
@@ -24,23 +23,19 @@ comments: true
 我一直相信，所有的相遇都是一种缘分。能够看到这些文字，我们之间就已经产生了些不可言喻，却又令人期待的微妙联系。
 
 虽然不知文字维系的缘分会有多长。
-既然来了，请尽量享受O(∩_∩)O~。
-
-
-
+既然来了，请尽量享受 O(∩_∩)O~。
 
 <!--<audio autoplay="autopaly" controls="controls" loop="loop"  preload="auto" id="audio1">
 	<source src="http://omjh2j5h3.bkt.clouddn.com/%E6%9D%8E%E7%8E%89%E5%88%9A%20-%20%E5%88%9A%E5%A5%BD%E9%81%87%E8%A7%81%E4%BD%A0.mp3" type="audio/mp3">你的浏览器不支持audio标签</a>
 	</audio>
 
-<div>  
-           
- 
-<object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>  
-          
-  </div> 
--->
+<div>
 
+
+<object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>
+
+  </div>
+-->
 
 <div id="QPlayer" class="QPlayer">
 <div id="pContent">
@@ -108,8 +103,6 @@ window.onload = bgChange;
 	<title></title>
 	<link rel="stylesheet" href="/css/player.css">
 
-
-
 <script>
 myVid=document.getElementById("audio1");
 
@@ -118,20 +111,8 @@ function setHalfVolume()
   myVid.volume=0.2;
   } 
 
-</script> 
-
-
-
-
-
-
-
-
-
+</script>
 
 <!--
-<a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>  
+<a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>
 -->
-
-
-
