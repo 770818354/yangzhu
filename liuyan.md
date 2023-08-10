@@ -4,7 +4,7 @@ title: 留言板「MESSAGE」
 comments: true 
 ---
 
-<img src="https://robotkang-1257995526.cos.ap-chengdu.myqcloud.com/image/egypt-clipart-desert-pyramid.png" wwidth="100%" height="auto" alt="photos"/>
+<img src="https://cdn.jsdelivr.net/gh/770818354/-@master/image/prevsaaiew.4g0jyy9pg2k0.webp" wwidth="100%" height="auto" alt="photos"/>
 
 
 > 有什么话要对我说吗？             
