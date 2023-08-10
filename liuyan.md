@@ -114,11 +114,12 @@ function setHalfVolume()
 </script>
 
 <!-- my -->
+
     <script>
       new Valine({
           // AV 对象来自上面引入av-min.js(老司机们不要开车➳♡゛扎心了老铁)
-          av: AV, 
-          el: '.comment', // 
+          av: AV,
+          el: '.comment', //
           app_id: 'yukBIwNt2MtAq9NHXagpfMOX-gzGzoHsz', // 这里填写上面得到的APP ID
           app_key: 'MNdZfu6nIohskofglycTeI0z', // 这里填写上面得到的APP KEY
           placeholder: 'ヾﾉ≧∀≦)o来啊，快活啊哈!', // [v1.0.7 new]留言框占位提示文字
@@ -128,6 +129,7 @@ function setHalfVolume()
           pageSize:10,
           serverURLs: 'https://yukbiwnt.lc-cn-n1-shared.com',
       });
+
   </script>
   
 <!--
